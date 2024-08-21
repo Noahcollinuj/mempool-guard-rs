@@ -49,3 +49,4 @@
 # fix 6064
 # optimize 2113
 # optimize 6727
+# refactor 6627
